@@ -52,6 +52,7 @@ def carrega_palavra_secreta():
 
     arquivo = open("palavras.txt", "r")
 
+
     palavras = []
 
     for linha in arquivo:
